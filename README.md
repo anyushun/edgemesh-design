@@ -5,4 +5,3 @@
 
 ![edgemesh](docs/images/edgemesh.jpg)
 
-
