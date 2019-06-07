@@ -3,5 +3,18 @@
 
 ![user view](docs/images/user%20view.jpg)
 
-![edgemesh](docs/images/edgemesh.jpg)
+## 节点内协同
 
+![edge](docs/images/in_node.jpg)
+
+## 边边协同
+
+![edge2edge](docs/images/edge2edge.jpg)
+
+## 边云协同
+
+![edge2cloud](docs/images/edge2cloud.jpg)
+
+## edgemesh内部实现
+
+![edgemesh](docs/images/edgemesh.jpg)
